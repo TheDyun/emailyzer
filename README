@@ -1,0 +1,2 @@
+How To Use
+python3 emailyzer.py -i <txt file with names> -o <output file> -d example.com -opt <email format option of your choice> 
